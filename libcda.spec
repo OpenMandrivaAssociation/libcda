@@ -3,7 +3,7 @@ Version: 0.5
 Release: 1
 Source: http://tjaden.strangesoft.net/libcda/%name-%version.tar.gz
 Summary: Minimalistic library for playing Audio CDs
-URL: http://libcda.sf.net/
+URL: https://libcda.sf.net/
 License: BSD
 Group: System/Libraries
 
